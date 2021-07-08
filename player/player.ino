@@ -21,7 +21,7 @@ struct Note {
   const uint8_t index_right;
 };
 // File with all the data (easier to change music)
-#include "audio_overworld.h"
+#include "audio_marblemachine.h"
 
 // Code used to test things
 //const int len_notes = 1;

@@ -1,4 +1,4 @@
-# Arduino simple MIDI player
+# Arduino simple frequency player
 
 Play MIDI files (more like a sequence of frequencies) using only an Arduino and some headphones!
 
